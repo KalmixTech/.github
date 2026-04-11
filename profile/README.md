@@ -12,14 +12,17 @@
 
 <hr>
 
-Welcome to the official Kalmix GitHub. Here you will find hardware resources, configuration files, and developer toolkits to integrate centimeter-level positioning into your stack.
+Welcome to the official Kalmix GitHub! 
 
-### 📌 Pinned Resources
-- **[scout-pro](#)** — Hardware assets (3D models, datasheets, pinouts) for the SCOUT PRO module.
-- **[gnss-toolkit](#)** — Python tools for NMEA parsing, NTRIP clients, and RTK developer guides.
-- **[ardupilot-integration](#)** — Wiring diagrams and `.param` configs for ArduPilot/PX4.
+We are currently preparing our open-source developer resources. In the coming weeks, we will be releasing:
+- **Hardware Integration Assets** (3D STEP files, Pinout diagrams)
+- **Developer Toolkits** (Python NMEA parsers, NTRIP clients)
+- **Autopilot Configs** (ArduPilot/PX4 parameters)
 
 <br>
+
 <div align="center">
-  <sub>Need integration support? Contact us at <b>service@kalmixtech.com</b></sub>
+  <b>Hit the "Follow" button to stay updated when we drop our first repositories.</b>
+  <br><br>
+  <sub>Need technical support right now? Contact us at <b>service@kalmixtech.com</b></sub>
 </div>
