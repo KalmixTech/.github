@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/KalmixTech/Kalmix-Hardware/main/Assets/KALMIX-Logo.png" alt="Kalmix Logo" width="180">
 
-# Hardware · TRACE · Developer Resources
+# Hardware · TRACE · Integration Guides · Developer Resources
 
 *Official product documentation, Windows GNSS tools, and integration resources for RTK and precision-positioning systems.*
 
-[Hardware Documentation](https://github.com/KalmixTech/Kalmix-Hardware) &nbsp;·&nbsp; [TRACE for Windows](https://github.com/KalmixTech/Kalmix-Software) &nbsp;·&nbsp; [Developer Toolkit](https://github.com/KalmixTech/Kalmix-Toolkit) &nbsp;·&nbsp; [GNSS Handbook](https://www.kalmixtech.com/blogs/blog)
+[Hardware Documentation](https://github.com/KalmixTech/Kalmix-Hardware) &nbsp;·&nbsp; [TRACE for Windows](https://github.com/KalmixTech/Kalmix-Software) &nbsp;·&nbsp; [Integration Quickstarts](https://github.com/KalmixTech/Kalmix-Integrations) &nbsp;·&nbsp; [Developer Toolkit](https://github.com/KalmixTech/Kalmix-Toolkit) &nbsp;·&nbsp; [GNSS Handbook](https://www.kalmixtech.com/blogs/blog)
 
 </div>
 
@@ -18,6 +18,7 @@
 |---|---|---|
 | Select a Kalmix product or download hardware files | [Kalmix-Hardware](https://github.com/KalmixTech/Kalmix-Hardware) | Datasheets, interface references, mechanical files, protocol references, and available compliance declarations |
 | Monitor a receiver or deliver NTRIP corrections from Windows | [KALMIX TRACE Software](https://github.com/KalmixTech/Kalmix-Software) | Official releases, Windows documentation, and software support resources |
+| Set up a receiver with field software | [Kalmix-Integrations](https://github.com/KalmixTech/Kalmix-Integrations) | Tested Android and Windows quickstarts, connection paths, acceptance signals, and explicit system boundaries |
 | Build or learn around GNSS data streams | [Kalmix-Toolkit](https://github.com/KalmixTech/Kalmix-Toolkit) | Python examples, NMEA utilities, and GNSS/RTK reference materials |
 
 ## Product Documentation
@@ -41,6 +42,18 @@ Hardware resources are maintained in [Kalmix-Hardware](https://github.com/Kalmix
 | Software repository | [Kalmix-Software](https://github.com/KalmixTech/Kalmix-Software) |
 | Windows setup guide | [TRACE for Windows](https://www.kalmixtech.com/blogs/doc-trace/trace-for-windows) |
 | TRACE overview | [Kalmix TRACE](https://www.kalmixtech.com/pages/trace) |
+
+## Integration Quickstarts
+
+[**Kalmix-Integrations**](https://github.com/KalmixTech/Kalmix-Integrations) provides fast, evidence-scoped references for tested receiver, software, host, connection, correction, and acceptance combinations. The [Kalmix Integrations Hub](https://www.kalmixtech.com/pages/integrations) remains the complete software directory and the entry point to canonical setup Guides.
+
+| Workflow | Start here | What is verified |
+|---|---|---|
+| Direct Android field mapping | [SW Maps + SCOUT Series](https://github.com/KalmixTech/Kalmix-Integrations/tree/main/android/sw-maps) | USB Serial, in-app NTRIP, and RTK Fix on the map |
+| Android position bridge and diagnostics | [GNSS Master + SCOUT Series](https://github.com/KalmixTech/Kalmix-Integrations/tree/main/android/gnss-master) | USB Serial, in-app NTRIP, RTK status, and Mock Location scope |
+| Windows AgOpenGPS position input | [AgOpenGPS + SCOUT Series](https://github.com/KalmixTech/Kalmix-Integrations/tree/main/windows/agopengps) | USB Serial through AgIO, Network NTRIP, and RTK Fix; not vehicle control |
+
+For the broader Android app directory, including **NTRIP Inside** and **Mock Location** connection categories, see [Android App Support](https://github.com/KalmixTech/Kalmix-Integrations/tree/main/android).
 
 ## Developer Resources
 
