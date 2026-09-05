@@ -2,28 +2,23 @@
 
 <img src="https://raw.githubusercontent.com/KalmixTech/Kalmix-Hardware/main/Assets/KALMIX-Logo.png" alt="Kalmix Logo" width="180">
 
-# Kalmix — GNSS Hardware, TRACE Software & Developer Resources
+# Hardware · TRACE · Developer Resources
 
-**Official product documentation, Windows GNSS tools, and integration resources for RTK and precision-positioning systems.**
+*Official product documentation, Windows GNSS tools, and integration resources for RTK and precision-positioning systems.*
 
-[![Website](https://img.shields.io/badge/Website-kalmixtech.com-1f4b7a)](https://www.kalmixtech.com)
-[![Documentation](https://img.shields.io/badge/Documentation-Product_Resources-247a4f)](https://www.kalmixtech.com/pages/documentation)
-[![TRACE](https://img.shields.io/badge/Software-KALMIX_TRACE-3056d3)](https://github.com/KalmixTech/Kalmix-Software)
-[![Developer Tools](https://img.shields.io/badge/Developer_Tools-Kalmix_Toolkit-4b5563)](https://github.com/KalmixTech/Kalmix-Toolkit)
+[Hardware Documentation](https://github.com/KalmixTech/Kalmix-Hardware) &nbsp;·&nbsp; [TRACE for Windows](https://github.com/KalmixTech/Kalmix-Software) &nbsp;·&nbsp; [Developer Toolkit](https://github.com/KalmixTech/Kalmix-Toolkit) &nbsp;·&nbsp; [GNSS Handbook](https://www.kalmixtech.com/blogs/blog)
 
 </div>
 
 ---
 
-## Start Here
+## Choose a Path
 
-| If you need to… | Go to | What you will find |
+| Your goal | Start with | What you will find |
 |---|---|---|
 | Select a Kalmix product or download hardware files | [Kalmix-Hardware](https://github.com/KalmixTech/Kalmix-Hardware) | Datasheets, interface references, mechanical files, protocol references, and available compliance declarations |
 | Monitor a receiver or deliver NTRIP corrections from Windows | [KALMIX TRACE Software](https://github.com/KalmixTech/Kalmix-Software) | Official releases, Windows documentation, and software support resources |
 | Build or learn around GNSS data streams | [Kalmix-Toolkit](https://github.com/KalmixTech/Kalmix-Toolkit) | Python examples, NMEA utilities, and GNSS/RTK reference materials |
-
-Kalmix provides integration-ready GNSS products and the resources engineers need to evaluate, connect, configure, and validate them in robotics, field automation, surveying, monitoring, and precision-positioning workflows.
 
 ## Product Documentation
 
@@ -36,9 +31,9 @@ Hardware resources are maintained in [Kalmix-Hardware](https://github.com/Kalmix
 | **GUIDE K35** | [OEM RTK GNSS Module](https://www.kalmixtech.com/products/kalmix-guide-k35-gnss-module) | [Open files](https://github.com/KalmixTech/Kalmix-Hardware/tree/main/GUIDE) |
 | **ZENITH** | [Full-Band GNSS Surveying Antenna](https://www.kalmixtech.com/products/kalmix-zenith-antenna) | [Open files](https://github.com/KalmixTech/Kalmix-Hardware/tree/main/ZENITH) |
 
-## KALMIX TRACE for Windows
+## TRACE for Windows
 
-**KALMIX TRACE** is a portable Windows GNSS serial monitor and NTRIP correction client. Use it to inspect receiver data, deliver corrections, review receiver-reported RTK status, and retain session logs during setup and troubleshooting.
+**TRACE** is a portable Windows GNSS serial monitor and NTRIP correction client. Use it to inspect receiver data, deliver corrections, review receiver-reported RTK status, and retain session logs during setup and troubleshooting.
 
 | Resource | Link |
 |---|---|
