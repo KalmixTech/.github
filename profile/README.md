@@ -6,7 +6,7 @@
 
 *Official product documentation, Windows GNSS tools, and integration resources for RTK and precision-positioning systems.*
 
-[Hardware Documentation](https://github.com/KalmixTech/Kalmix-Hardware) &nbsp;·&nbsp; [TRACE for Windows](https://github.com/KalmixTech/Kalmix-Software) &nbsp;·&nbsp; [Integration Quickstarts](https://github.com/KalmixTech/Kalmix-Integrations) &nbsp;·&nbsp; [Developer Toolkit](https://github.com/KalmixTech/Kalmix-Toolkit) &nbsp;·&nbsp; [GNSS Handbook](https://www.kalmixtech.com/blogs/blog)
+[Hardware Documentation](https://github.com/KalmixTech/Kalmix-Hardware) &nbsp;·&nbsp; [TRACE for Windows](https://github.com/KalmixTech/Kalmix-TRACE) &nbsp;·&nbsp; [SCOPE for Android](https://github.com/KalmixTech/Kalmix-SCOPE) &nbsp;·&nbsp; [Integration Quickstarts](https://github.com/KalmixTech/Kalmix-Integrations) &nbsp;·&nbsp; [Developer Toolkit](https://github.com/KalmixTech/Kalmix-Toolkit) &nbsp;·&nbsp; [GNSS Handbook](https://www.kalmixtech.com/blogs/blog)
 
 </div>
 
@@ -17,7 +17,8 @@
 | Your goal | Start with | What you will find |
 |---|---|---|
 | Select a Kalmix product or download hardware files | [Kalmix-Hardware](https://github.com/KalmixTech/Kalmix-Hardware) | Datasheets, interface references, mechanical files, protocol references, and available compliance declarations |
-| Monitor a receiver or deliver NTRIP corrections from Windows | [KALMIX TRACE Software](https://github.com/KalmixTech/Kalmix-Software) | Official releases, Windows documentation, and software support resources |
+| Monitor a receiver or deliver NTRIP corrections from Windows | [KALMIX TRACE Software](https://github.com/KalmixTech/Kalmix-TRACE) | Official releases, Windows documentation, and software support resources |
+| Connect USB GNSS receivers or deliver NTRIP on Android | [KALMIX SCOPE App](https://github.com/KalmixTech/Kalmix-SCOPE) | Official Android releases, APK downloads, and setup resources |
 | Set up a receiver with field software | [Kalmix-Integrations](https://github.com/KalmixTech/Kalmix-Integrations) | Tested Android and Windows quickstarts, connection paths, acceptance signals, and explicit system boundaries |
 | Build or learn around GNSS data streams | [Kalmix-Toolkit](https://github.com/KalmixTech/Kalmix-Toolkit) | Python examples, NMEA utilities, and GNSS/RTK reference materials |
 
@@ -38,10 +39,19 @@ Hardware resources are maintained in [Kalmix-Hardware](https://github.com/Kalmix
 
 | Resource | Link |
 |---|---|
-| Latest release | [Download KALMIX Trace v1.5.7](https://github.com/KalmixTech/Kalmix-Software/releases/tag/trace-v1.5.7) |
-| Software repository | [Kalmix-Software](https://github.com/KalmixTech/Kalmix-Software) |
+| Latest release | [Download KALMIX TRACE v1.5.7](https://github.com/KalmixTech/Kalmix-TRACE/releases/tag/v1.5.7) |
+| Software repository | [Kalmix-TRACE](https://github.com/KalmixTech/Kalmix-TRACE) |
 | Windows setup guide | [TRACE for Windows](https://www.kalmixtech.com/blogs/doc-trace/trace-for-windows) |
 | TRACE overview | [Kalmix TRACE](https://www.kalmixtech.com/pages/trace) |
+
+## SCOPE for Android
+
+**SCOPE** is a portable Android app for USB GNSS receivers, NTRIP correction delivery, and RTK status monitoring.
+
+| Resource | Link |
+|---|---|
+| Latest release | [Download KALMIX SCOPE v1.0.9](https://github.com/KalmixTech/Kalmix-SCOPE/releases/tag/v1.0.9) |
+| Software repository | [Kalmix-SCOPE](https://github.com/KalmixTech/Kalmix-SCOPE) |
 
 ## Integration Quickstarts
 
