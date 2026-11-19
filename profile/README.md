@@ -52,6 +52,8 @@ Hardware resources are maintained in [Kalmix-Hardware](https://github.com/Kalmix
 |---|---|
 | Latest release | [Download KALMIX SCOPE v1.0.9](https://github.com/KalmixTech/Kalmix-SCOPE/releases/tag/v1.0.9) |
 | Software repository | [Kalmix-SCOPE](https://github.com/KalmixTech/Kalmix-SCOPE) |
+| Android setup guide | [SCOPE for Android](https://www.kalmixtech.com/blogs/doc-scope/scope-for-android) |
+| SCOPE overview | [Kalmix SCOPE](https://www.kalmixtech.com/pages/scope) |
 
 ## Integration Quickstarts
 
